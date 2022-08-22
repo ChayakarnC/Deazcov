@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Deazcov</title>
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
+    <link href="css/base.css" rel="stylesheet" type="text/css" />
+  </head>
+
+  <body>
+    <div class="navbar" >
+    <a class="logo" href="index.html" id="logo"><b><font size=6>deazcov</font></b></a>
+        <br>
+    <nav class="navigate">
+		<a class="nav-link" href="index.html">Home</a>
+		<a class="nav-link" href= "EN/aboutus.html">About Us</a>
+		<a class="nav-link" href="EN/faq.html">FAQ</a>
+		<a class="nav-link" href="EN/feedback.html">Feedback</a>
+    </nav>
+  </div>
+  
+    
+    <main>
+      <h1>FAQs</h1>
+      
+    </main>
+  </body>
+</html>
