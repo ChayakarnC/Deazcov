@@ -1,0 +1,29 @@
+main{
+  margin: 2rem;
+}
+
+h1{
+  margin: 5rem;
+}
+h2{
+  margin: 2rem;
+  text-align: center;
+}
+
+.sub-guild{
+  padding: 2 rem;
+  margin:1 rem;
+}
+
+.order{
+  margin:3rem;
+}
+
+li{
+  margin: 2rem;
+}
+
+footer{
+  background: var(--clr-darkblue);
+  margin: 2rem;
+}
